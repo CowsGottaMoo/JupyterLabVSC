@@ -1,0 +1,66 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - line length - properly done (e.g., no scrolling is needed)
+      - spacing - consistent and correct usage
+
+Negative:
+•  The following formatting issues were present in your code:
+      - imports - not listed together at the notebook's top
+      - PEP8 - not well followed
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - code cells - good separation of encode ideas
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - markdown cells - some additional communication would have been more informative
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Neutral:
+•  Writing and communication done okay, apart from the following issue(s):
+      - sentences - ensure proper grammar and punctuation in docstrings and f-strings.
+
+Negative:
+•  No citation of information sources:
+      - As a university student, you should be citing sources of knowledge. This is something that you will need to do for your thesis.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+Negative:
+•  The following instructions were not followed:
+      - ID or name - not included at the top of the solution
+
+Additional Notes: 
+  Next time write 2026SS_99, which is your SciPro ID, at the top of the Notebook instead of your name.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good

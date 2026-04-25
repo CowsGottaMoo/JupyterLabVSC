@@ -1,0 +1,51 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - commenting - appropriate amount provided (i.e., not excessive or insufficient)
+      - f-string - properly used
+      - naming - descriptive objects/variables (i.e., human readable)
+      - PEP8 guidelines- followed
+      - spacing - consistent and correct usage
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Negative:
+•  Scholarship done poorly, which includes the following:
+      - citing - missing reference numbers (e.g., [1, 2]) within your writing
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good

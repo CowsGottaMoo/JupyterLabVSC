@@ -1,0 +1,55 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - naming - descriptive objects/variables (i.e., human readable)
+
+Negative:
+•  The following formatting issues were present in your code:
+      - imports - not listed together at the notebook's top
+      - f-string - not used (e.g., print statements)
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - markdown cells - some additional communication would have been more informative
+
+Negative:
+•  Notebook was poorly done,  which includes the following:
+      - equations - not properly formatted for viewing in Jupyter notebook (e.g., equations were not displayed/formatted well in Markdown cells)
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+
+Negative:
+•  No citation of information sources:
+      - As a university student, you should be citing sources of knowledge. This is something that you will need to do for your thesis.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good
