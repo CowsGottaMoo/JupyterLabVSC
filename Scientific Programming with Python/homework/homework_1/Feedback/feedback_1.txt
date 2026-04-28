@@ -1,0 +1,73 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - concise, clean and clearly written code
+      - commenting - appropriate amount provided (i.e., not excessive or insufficient)
+      - naming - descriptive objects/variables (i.e., human readable)
+      - spacing - consistent and correct usage
+
+Negative:
+•  The following formatting issues were present in your code:
+      - blank lines - not enough used (e.g., separating ideas and improving readability)
+      - imports - not listed together at the notebook's top
+      - indentation - improperly done (i.e., 4 spaces)
+      - f-string - not used (e.g., print statements)
+      - line length - too long (i.e., requiring scrolling)
+      - PEP8 - not well followed
+
+Additional Notes: 
+  import as a comment
+
+
+Coding Concept:
+
+Negative:
+•  Coding concepts that were poorly done, which includes the following:
+      - imports - libraries were imported, but not used (not concise coding)
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - cell type - cell(s) have wrong types (e.g., a cell meant for text was 'Code' cell)
+      - markdown cells - some additional communication would have been more informative
+
+Negative:
+•  Notebook was poorly done,  which includes the following:
+      - markdown cells - several comments within code cells that would be better in  Markdown cells, allowing better formatting and communication of ideas.
+
+
+Academic Scholarship (Citations and Writing):
+
+Negative:
+•  No citation of information sources:
+      - As a university student, you should be citing sources of knowledge. This is something that you will need to do for your thesis.
+•  Scholarship done poorly, which includes the following:
+      - citing - you do not demonstrate that you know how to cite sources of knowledge
+•  Writing and communication done poorly, which includes the following:
+      - communication - no or very little presentation of thoughts or ideas (e.g., context, solution meaning, decisions made)
+      - sentences - incomplete sentences (e.g., capitalization, subject, verb) when needed (including in f-strings)
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good

@@ -1,0 +1,56 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - naming - descriptive objects/variables (i.e., human readable)
+
+Negative:
+•  The following formatting issues were present in your code:
+      - inline commenting - usage was unnecessary (i.e., comments given at the end of a code line)
+      - f-string - not used (e.g., print statements)
+
+
+Jupyter Notebooks:
+
+Negative:
+•  Notebook was poorly done,  which includes the following:
+      - cell structure - section headings (e.g., Markdown titles) are inconsistent, misleading, or do not reflect the assignment's structure
+      - cell structure - separatation of the tasks, subtasks, or ideas needs to be better
+      - markdown cells - are not used, or there is a significant lack of good, informative communication
+      - poor useage - poor use of the Jupyter notebook's capabilities.)
+
+
+Academic Scholarship (Citations and Writing):
+
+Negative:
+•  No citation of information sources:
+      - As a university student, you should be citing sources of knowledge. This is something that you will need to do for your thesis.
+•  Scholarship done poorly, which includes the following:
+      - citing - missing references for knowledge (e.g., datasets, equations, libraries)
+      - citing - you do not demonstrate that you know how to cite sources of knowledge
+      - references - missing important information (e.g., year, author, journal, title, accessed date)
+•  Writing and communication done poorly, which includes the following:
+      - communication - no or very little presentation of thoughts or ideas (e.g., context, solution meaning, decisions made)
+      - context - poorly provided (e.g., background info, the problem)
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Negative:
+•  The following were problems with your solutions:
+      - interpretation - there was no or little attempt to interpret or discuss the code's results
+
+Additional Notes: 
+  -Exercise 2 is missing
+  
