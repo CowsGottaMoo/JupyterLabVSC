@@ -1,0 +1,70 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - f-string - properly used
+      - indentation - consistent and done with 4 spaces
+      - line length - properly done (e.g., no scrolling is needed)
+      - naming - descriptive objects/variables (i.e., human readable)
+      - PEP8 guidelines- followed
+      - spacing - consistent and correct usage
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - list
+
+Negative:
+•  Better data structures would have improved the solution, which includes the following:
+      - looping - over a dictionary
+      - using 'tuple' - immutable elements
+•  Coding concepts that were poorly done, which includes the following:
+      - built-in function - 'round'
+      - concise coding - unnecessary or redundant code (e.g., duplicate imports, redundant sorting, unnecessary variable assignment)
+      - copy-and-pasting code - doing this increases the chances of errors and may introduced confusion
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Additional Notes: 
+  Your Jupyter Notebook structure, LaTeX formatting for equations, and academic writing are excellent. You clearly explained your process and interpreted the results perfectly. However, the coding concepts have notable room for improvement. Instead of copying and pasting the same for loop three times for each celestial body, you should use a dictionary to store the gravity values and iterate through it with a nested loop. Additionally, use tuples for immutable data like durations, and remember to utilize the built-in round() function

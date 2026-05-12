@@ -1,0 +1,80 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - f-string - properly used
+      - indentation - consistent and done with 4 spaces
+      - naming - descriptive objects/variables (i.e., human readable)
+      - spacing - consistent and correct usage
+
+Negative:
+•  The following formatting issues were present in your code:
+      - line length - too long (i.e., requiring scrolling)
+      - PEP8 - not well followed
+
+Additional Notes: 
+  The code is overall clean and readable. Some long f-string print statements should be split across multiple lines to improve readability.
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - list
+
+Negative:
+•  Coding concepts that were poorly done, which includes the following:
+      - concise coding  - make your code more concise
+      - copy-and-pasting code - doing this increases the chances of errors and may introduced confusion
+
+Additional Notes: 
+  The solution works well, but repeated loops could be replaced with a dictionary-based approach to reduce redundancy and improve scalability.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  The notebook is well organized and easy to follow.
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+
+Additional Notes: 
+  References were included appropriately. The gravitational acceleration unit should consistently be written as m/s² instead of m/s.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Additional Notes: 
+  Very clear and well-structured solution. Functions were implemented correctly, results were interpreted, and the notebook organization was strong. Main improvements would be reducing repeated code and shortening long output lines.
