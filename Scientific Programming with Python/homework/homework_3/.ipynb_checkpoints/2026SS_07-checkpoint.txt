@@ -1,0 +1,105 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - commenting - appropriate amount provided (i.e., not excessive or insufficient)
+      - f-string - properly used
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and done with 4 spaces
+      - line length - properly done (e.g., no scrolling is needed)
+      - naming - descriptive objects/variables (i.e., human readable)
+      - spacing - consistent and correct usage
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - libraries
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Negative:
+•  Writing and communication done poorly, which includes the following:
+      - context - poorly provided (e.g., background info, the problem)
+
+Additional Notes: 
+  - Your opening context could have been done better. You have the information spread throughout the solution, but an opening introduction would have been appropriate instead of jumping straight into Task 1.
+  
+  - Very nice that you provided a citation for where you obtained the conversion factors. Most of your peers did not.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - excellent
+
+Additional Notes: 
+  - A very, very nice solution. Nicely balanced communication (apart from the initial setting of the context) and being concise. You hit all of the important aspects of Python and this course. Keep it up!
+
+
+ Assignment Specific Feedback 
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - clearly defining all input variables/objects
+      - docstring - clearly defining the returned object(s)
+      - internal check - proper use of 'if not isinstance', 'raise' statements, etc.
+      - type hinting - applied well for input variables (and for what is returned, if applicable)
+
+Additional Notes: 
+  - Very well done functions - enjoyable and easy to read!
+
+
+Pandas:
+
+Positive:
+•  Overall Pandas feedback:
+      - Effective use of Pandas and its built-in functions
+      - Plotting - Nicely made plots containing all key elements
+
+Additional Notes: 
+  - Take a look at "inplace=True" for some of the Panda functions, which can make your code just a bit more concise.
+
+Grading table: 
+
+     1. Code quality & design |   6.0 |   4 |       24 %
+--------------------------------------------------------
+  2. Code execution & results |   6.0 |   4 |       24 %
+   3. Assignment requirements |   6.0 |   4 |       24 %
+    4. Scientific programming |   5.5 |   4 |       22 %
+                5. Creativity |   4.0 |   1 |        4 %
+     Total Percentage Awarded |     - |   - |     98.0 %
+--------------------------------------------------------
+            Final Note (Mark) |     - |   - |   1.0 (A+)
