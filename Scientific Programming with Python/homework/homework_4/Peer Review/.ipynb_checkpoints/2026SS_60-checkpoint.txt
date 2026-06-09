@@ -1,0 +1,80 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - indentation - consistent and done with 4 spaces
+      - line length - properly done (e.g., no scrolling is needed)
+      - PEP8 guidelines- followed
+      - spacing - consistent and correct usage
+
+Negative:
+•  The following formatting issues were present in your code:
+      - commenting - excessive amounts done (e.g., for obvious points), or not relevant (i.e. significantly distracts from the solution's main focus)
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - list
+
+Negative:
+•  Coding concepts that were poorly done, which includes the following:
+      - if-elif-else (e.g. mutually exclusive invalid states) - better informs the reader of the code's intent versus 'if-if-...' (independent (nonexclusive invalid states)
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Negative:
+•  Scholarship done poorly, which includes the following:
+      - citing - chosen citation format (e.g., numerical) was not correctly applied throughout the text
+      - citing - missing reference numbers (e.g., [1, 2]) within your writing
+
+Additional Notes: 
+  You should not cite Python, Jupyter Labs or any other documentation if you don't have them referenced in your text, also refernces should be included in the Markdown cells where appropriate.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+Negative:
+•  The following instructions were not followed:
+      - ID or name - not included at the top of the solution
+
+Additional Notes: 
+  Please dont include your name at the top 😭
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Additional Notes: 
+  I liked the further work with the Toy Data and Transcription functions.

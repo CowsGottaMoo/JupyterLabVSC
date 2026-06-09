@@ -1,0 +1,76 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - line length - properly done (e.g., no scrolling is needed)
+      - spacing - consistent and correct usage
+
+Negative:
+•  The following formatting issues were present in your code:
+      - inline commenting - usage was unnecessary (i.e., comments given at the end of a code line)
+      - f-string - not used (e.g., print statements)
+      - PEP8 - not well followed
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - list
+      - set
+
+Additional Notes: 
+  Implement further Type Hinting in your future projects. Additionally your generateToyData, Test functions  and the class TestDNAtoRNA should have a docstring.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - markdown cells - some additional communication would have been more informative
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+
+Neutral:
+•  Scholarship was done okay, apart from the following issue(s):
+      - citing - websites should include the date visited
+•  Writing and communication done okay, apart from the following issue(s):
+      - sentences - ensure proper grammar and punctuation in docstrings and f-strings.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good
+
+Negative:
+•  The following were problems with your solutions:
+      - interpretation - there was no or little attempt to interpret or discuss the code's results
