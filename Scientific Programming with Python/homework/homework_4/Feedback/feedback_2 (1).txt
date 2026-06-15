@@ -1,0 +1,107 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - commenting - appropriate amount provided (i.e., not excessive or insufficient)
+      - indentation - consistent and done with 4 spaces
+      - line length - properly done (e.g., no scrolling is needed)
+      - naming - descriptive objects/variables (i.e., human readable)
+      - PEP8 guidelines- followed
+      - spacing - consistent and correct usage
+
+Additional Notes: 
+  The code is clean, readable, and consistently formatted.
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - list
+•  Coding concepts done well, which includes the following :
+      - built-in function - 'range'
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  The notebook is well organized with clear task separation and explanatory markdown.
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Additional Notes: 
+  The notebook is complete, organized, and demonstrates a good understanding of the assignment requirements.
+
+
+ Assignment Specific Feedback 
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - clearly defining all input variables/objects
+      - docstring - clearly defining the returned object(s)
+      - internal check - proper use of 'if not isinstance', 'raise' statements, etc.
+      - isolating ideas to user-defined functions
+      - optional parameters - nice idea to include them
+      - type hinting - applied well for input variables (and for what is returned, if applicable)
+
+
+Unit Test DNA Transcription:
+
+Positive:
+•  Additional user-defined function feedback:
+      - Good approach converting input to uppercase and then replacing `T` with `U`.
+      - Good input validation: raising `TypeError` for non-string input.
+      - Good input validation: raising `ValueError` for invalid nucleotides.
+      - Very good job on incorporating the unit test concepts into your user-defined function development.
+•  Exception testing done well:
+      - For `unittest` - good use of `with self.assertRaises(ValueError)` to verify that invalid characters raise an error in the most concise manner.
+•  Toy data generation:
+      - Good use of random module (e.g., `random.randint`, `random.choices`) to create randomized toy data.
+•  Overall unit test feedback:
+      - Good job on using the unittest module/library.
+      - You created a good transcription user-defined function.
+      - Your unit tests correctly check your function.
+      - Tests are readable and follow a logical naming scheme.
+
+Neutral:
+•  General feedback:
+      - Consider including testing edge cases (e.g., `TTTT`, `CtGg`, `GAGA`).
