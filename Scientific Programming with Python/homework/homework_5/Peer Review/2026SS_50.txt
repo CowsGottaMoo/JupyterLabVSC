@@ -1,0 +1,85 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - imports - libraries were listed at the notebook's top
+      - PEP8 guidelines- followed
+
+Negative:
+•  The following formatting issues were present in your code:
+      - commenting - excessive amounts done (e.g., for obvious points), or not relevant (i.e. significantly distracts from the solution's main focus)
+      - f-string - not used (e.g., print statements)
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - code cells - good separation of encode ideas
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - markdown cells - some additional communication would have been more informative
+
+Negative:
+•  Notebook was poorly done,  which includes the following:
+      - markdown cells - are not used, or there is a significant lack of good, informative communication
+
+
+Academic Scholarship (Citations and Writing):
+
+Negative:
+•  No citation of information sources:
+      - As a university student, you should be citing sources of knowledge. This is something that you will need to do for your thesis.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good
+
+
+ Assignment Specific Feedback 
+
+
+NumPy Library:
+
+Positive:
+•  Core Deliverables & Structure:
+      - Successfully included the exact AI prompt(s) used.
+      - Overall good use of NumPy for your homework assignment
+•  Scholarly AI Attribution:
+      - Clearly delineated which concepts were clarified by the AI tutor versus what was coded independently.
+•  NumPy Best Practices:
+      - Correct usage of the standard community abbreviation 'import numpy as np'.
+•  Topic-Specific Successes:
+      - Array Operations: Demonstrated array reshaping correctly.
+      - Array Operations: Demonstrated array slicing and/or filtering correctly.
+
+Neutral:
+•  Code Optimization & Style Adjustments:
+      - AI Attribution: While the prompts were included, consider adopting a more formal, academic citation style to document your AI tutor interactions.
+      - Reproducibility: Consider setting a random seed (e.g., via np.random.default_rng(seed)) to make your simulated toy data reproducible.
+
+Negative:
+•  Not Following Assignment Instructions/Deliverables:
+      - Your solutions strongly suggest that you used AI to generate the code rather than doing it independently.
+•  Poor or Unscholarly AI Reporting:
+      - Did not name or cite the specific Generative AI tool/model used.
+      - The interaction with the AI was not well reported (e.g., missing context of how the AI acted as a tutor).
+•  Underutilization of NumPy Built-ins:
+      - Used non-NumPy function or manually calculated math operations instead of using NumPy functions (e.g., np.mean, np.sqrt, np.square, np.subtract, etc.).

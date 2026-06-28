@@ -1,0 +1,94 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - PEP8 guidelines- followed
+
+Negative:
+•  The following formatting issues were present in your code:
+      - imports - not listed together at the notebook's top
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - code cells - some additional encoded ideas into separate cells would have been logical
+
+Negative:
+•  Notebook was poorly done,  which includes the following:
+      - cell structure - separatation of the tasks, subtasks, or ideas needs to be better
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - libraries
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Neutral:
+•  Scholarship was done okay, apart from the following issue(s):
+      - citing - when possible cite peer-reviewed papers or academic books, not websites
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+Negative:
+•  The following instructions were not followed:
+      - ID or name - not included at the top of the solution
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+
+ Assignment Specific Feedback 
+
+
+NumPy Library:
+
+Positive:
+•  Core Deliverables & Structure:
+      - Successfully included the exact AI prompt(s) used.
+      - Overall good use of NumPy for your homework assignment
+•  Scholarly AI Attribution:
+      - AI prompt history is neatly formatted, reproducible, and well integrated into the notebook.
+•  NumPy Best Practices:
+      - Correct usage of the standard community abbreviation 'import numpy as np'.
+      - Appropriate use of NumPy data types.
+•  Topic-Specific Successes:
+      - Array Operations: Demonstrated array reshaping correctly.
+      - Array Operations: Demonstrated array slicing and/or filtering correctly.
+      - Array Operations: Demonstrated concatenating DataFrames correctly.
+      - Simulation Data: Excellent application of NumPy's random number generation to construct representative toy data.
+•  The timeit Library Usage (if applicable):
+      - Performance: Demonstrated a clear speedup in the NumPy vs. standard loop comparison.
+      - Good and proper usage of the timeit library.
+
+Negative:
+•  Poor or Unscholarly AI Reporting:
+      - Did not name or cite the specific Generative AI tool/model used.

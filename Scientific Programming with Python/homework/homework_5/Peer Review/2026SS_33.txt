@@ -1,0 +1,74 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - concise, clean and clearly written code
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - line length - properly done (e.g., no scrolling is needed)
+      - naming - descriptive objects/variables (i.e., human readable)
+      - PEP8 guidelines- followed
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - libraries
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+
+ Assignment Specific Feedback 
+
+
+NumPy Library:
+
+Positive:
+•  Core Deliverables & Structure:
+      - Successfully included the exact AI prompt(s) used.
+      - Clear documentation of the thought process and independent coding solutions.
+      - Overall good use of NumPy for your homework assignment
+•  Scholarly AI Attribution:
+      - Excellent scholarly reporting of the AI tool used (e.g., specifying model, platform/KI:connect, and date accessed).
+      - Clearly delineated which concepts were clarified by the AI tutor versus what was coded independently.
+      - AI prompt history is neatly formatted, reproducible, and well integrated into the notebook.
+•  NumPy Best Practices:
+      - Use of NumPy vectorization instead of loops (e.g., for loops).
+      - Correct usage of the standard community abbreviation 'import numpy as np'.
+      - Appropriate use of NumPy data types.
+•  Topic-Specific Successes:
+      - Array Operations: Demonstrated array reshaping correctly.
+      - Array Operations: Demonstrated array slicing and/or filtering correctly.
+      - Polynomials: Correctly utilized the 'numpy.polynomial.polynomial' module or 'Polynomial.fit'.
+      - Simulation Data: Excellent application of NumPy's random number generation to construct representative toy data.
+      - Simulation Data: Excellent inclusion of noise into your toy data.
+•  The timeit Library Usage (if applicable):
+      - Performance: Demonstrated a clear speedup in the NumPy vs. standard loop comparison.
+      - Good and proper usage of the timeit library.
