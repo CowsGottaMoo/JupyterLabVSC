@@ -1,0 +1,119 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - imports - libraries were alphabetized
+      - indentation - consistent and done with 4 spaces
+      - line length - properly done (e.g., no scrolling is needed)
+      - naming - descriptive objects/variables (i.e., human readable)
+
+Negative:
+•  The following formatting issues were present in your code:
+      - f-string - not used (e.g., print statements)
+
+Additional Notes: 
+  In your plots you write "fig, ax = plt.subplots((figsize=(8, 5)))" try to avoid this: it should be split into seperate lines.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  Why perform the Final Checks at the end of the notebook? These are things that either don't have to be done or should be done at the start. I don't see the reason to perform these checks at the end of the notebook.
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+
+Neutral:
+•  Scholarship was done okay, apart from the following issue(s):
+      - references - inconsistent formatting
+
+Additional Notes: 
+  The whole notebook kind of reads like it was AI generated.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Neutral:
+•  Overall, your work done on this assignment was:
+      - okay  - there is notable room for improvement
+
+
+ Assignment Specific Feedback 
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - clearly defining all input variables/objects
+      - docstring - clearly defining the returned object(s)
+      - internal check - proper use of 'if not isinstance', 'raise' statements, etc.
+      - isolating ideas to user-defined functions
+      - optional parameters - nice idea to include them
+      - type hinting - applied well for input variables (and for what is returned, if applicable)
+
+Neutral:
+•  Okay user-defined function(s), but the following could be improved:
+      - assert vs. raise - it is better to use 'raise' since 'assert' can be bypassed
+
+
+Function (and Method) Calling:
+
+Negative:
+      - formatting - placing each parameter being passed onto a new line is not necessary and makes the code less concise
+
+
+Pandas:
+
+Positive:
+•  Overall Pandas feedback:
+      - Data Cleaning & Preparation: Very nicely done (e.g., dropping duplicates, handling missing values)!
+      - DataFrame Display: Nicely displayed Pandas DataFrames for better readability.
+•  Topic-Specific Applications (if applicable per assignment):
+      - Correlation Analysis: Well done.
+
+Additional Notes: 
+  Synthetic data is fine to simply practice making and interpreting plots, however seeing real interesting data would have been preferable for me and was also part of the goal of the assignment.
+
+
+Plotting / Visualization:
+
+Positive:
+•  Overall plot feedback:
+      - General: Choices behind the plot(s) were well done, resulting in clear and informative data presentation
+      - Visualization: Very well done, resulting in clear and informative data presentation and understanding.
+•  The plot details were good regarding:
+      - axis labels
+      - title
+
+Additional Notes: 
+  Distribution of Exam Scores graph:
+  	very nice graph especially with the kde, however your observation is a bit off.
+  	Having most students get an exam score of 100% is not in the higher-middle range.

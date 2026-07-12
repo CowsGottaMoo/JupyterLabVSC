@@ -1,0 +1,103 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  A cell before the references about a closing summary and/or a final interpretation of the data would have been a nice touch. Otherwise good work!
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - libraries
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Additional Notes: 
+  Some sentences read like they were written by a generative AI, following AI characteristics were observed in the text:
+  em-dash,
+  its not xyz, its ... sentence formula,
+  Some sentences not quite corresponding to the data, e.g. pooled ac-dc-power of .8 (this could also be me incorrectly understanding the data shown),
+  writing (one color) and (the other color) instead of filling in the corresponding values indicates it was pasted from somewhere else or a leftover artifact from the planning/writing stage of the assignment work.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+
+ Assignment Specific Feedback 
+
+
+Pandas:
+
+Positive:
+•  Overall Pandas feedback:
+      - built-in functions: Effective use of Pandas functions.
+      - DataFrame Display: Nicely displayed Pandas DataFrames for better readability.
+•  Topic-Specific Applications (if applicable per assignment):
+      - Correlation Analysis: Well done.
+      - Running Averages: Good inea on performing a running averages of the data.
+      - Sorting: Good job on sorting the data for easier interpretation/understanding.
+
+Negative:
+•  Data Cleaning, Modification & Displaying DataFrame:
+      - Data Cleaning: The data was not cleaned properly (e.g., dropping duplicates, handling missing values).
+
+Additional Notes: 
+  In Task 3 you correctly used .head to show a neat snapshot of the data, however not properly cleaning your data resulted in that snapshot being filled with NaN.
+
+
+Plotting / Visualization:
+
+Positive:
+•  Overall plot feedback:
+      - matplotlib: Good usage of matplotlib for your homework assignment.
+      - Visualization: Very well done, resulting in clear and informative data presentation and understanding.
+•  The plot details were good regarding:
+      - axis labels
+      - font size
+      - legend
+      - title
+      - including units
+
+Negative:
+•  Poor Choice or Execution of Elements:
+      - Color: Poor contrast or poor color mapping (i.e., difficult to distinguish).
+      - Color: Different data series should be assigned different colors to distinguish them.
+
+Additional Notes: 
+  In task 5 you simply wrote "PLANT has no inherent ordering) shows that Plant 1 (one color) reaches noticeably higher AC power values than Plant 2 (the other color) at comparable irradiation levels." This would be a good explanation if you actually included which color was which plant in the sentence. As it is right now it is undistinguishable and makes the plot borderline unreadable.

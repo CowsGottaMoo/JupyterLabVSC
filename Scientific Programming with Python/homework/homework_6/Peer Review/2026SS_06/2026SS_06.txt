@@ -1,0 +1,116 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and done with 4 spaces
+      - naming - descriptive objects/variables (i.e., human readable)
+
+Negative:
+•  The following formatting issues were present in your code:
+      - blank lines - too many used (i.e., not concise)
+      - commenting - excessive amounts done (e.g., for obvious points), or not relevant (i.e. significantly distracts from the solution's main focus)
+      - f-string - not used (e.g., print statements)
+      - spacing - inconsistent and/or improperly used
+
+Additional Notes: 
+  adding new columns should not be in the same code cell as importing and cleaning the data.
+
+
+Coding Concept:
+
+Negative:
+•  Coding concepts that were poorly done, which includes the following:
+      - concise coding  - make your code more concise
+      - concise coding - unnecessary or redundant code (e.g., duplicate imports, redundant sorting, unnecessary variable assignment)
+
+Additional Notes: 
+  your function was completly unnecessary as you had already calculated the goal difference above in the importing and cleaning step.
+  
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - libraries
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+
+Neutral:
+•  Scholarship was done okay, apart from the following issue(s):
+      - citing - websites should include the date visited
+      - citing - when possible cite peer-reviewed papers or academic books, not websites
+
+Negative:
+•  Writing and communication done poorly, which includes the following:
+      - sentences - not clean, concise and/or context provided (C^3)
+      - punctuation - use punctuation when sentences are formed, including in comments, docstrings and TypeError messages
+      - sentences - incomplete sentences (e.g., capitalization, subject, verb) when needed (including in f-strings)
+      - words - several misspelled
+
+Additional Notes: 
+  Opening sentence has at least 7 typos.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Neutral:
+•  Overall, your work done on this assignment was:
+      - okay  - there is notable room for improvement
+
+Negative:
+•  The following were problems with your solutions:
+      - execution - the code does not run because of the following problem(s):
+          your path was to UEFA Champions League 2016-2022 Data, the file you uploaded was UEFA_Champions_League_20162022_Data.
+
+
+ Assignment Specific Feedback 
+
+
+Pandas:
+
+Positive:
+•  Overall Pandas feedback:
+      - Data Cleaning & Preparation: Very nicely done (e.g., dropping duplicates, handling missing values)!
+
+Negative:
+•  Reading Data Into Pandas:
+      - Incorrectly loading of the data.
+      - Renaming File: Renaming the source data file is generally not a good practice.
+
+Additional Notes: 
+  Dataset is not UTF-8 encoded as it is an excel file.
+
+
+Plotting / Visualization:
+
+Positive:
+•  Overall plot feedback:
+      - General: Choices behind the plot(s) were well done, resulting in clear and informative data presentation
+      - Visualization: Very well done, resulting in clear and informative data presentation and understanding.
+
+Negative:
+•  Missing Essential Plot Elements:
+      - Axis Labels: One or two axis lables are missing or incomplete
