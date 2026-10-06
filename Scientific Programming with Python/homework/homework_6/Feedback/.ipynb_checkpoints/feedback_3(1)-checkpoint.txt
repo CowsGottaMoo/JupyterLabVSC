@@ -1,0 +1,57 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - commenting - appropriate amount provided (i.e., not excessive or insufficient)
+
+Negative:
+•  The following formatting issues were present in your code:
+      - line length - too long (i.e., requiring scrolling)
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - dictionary
+•  Coding concepts done well, which includes the following :
+      - built-in function - 'enumerate'
+      - looping - over a dictionary
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good

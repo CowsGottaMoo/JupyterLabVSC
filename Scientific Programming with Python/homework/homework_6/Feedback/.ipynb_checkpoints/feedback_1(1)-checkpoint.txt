@@ -1,0 +1,170 @@
+Evaluation:  General Feedback 
+
+
+Code Formatting:
+
+Positive:
+•  Formatting is done well, which includes:
+      - blank lines - consistent and good usage
+      - concise, clean and clearly written code
+      - commenting - appropriate amount provided (i.e., not excessive or insufficient)
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and done with 4 spaces
+      - line length - properly done (e.g., no scrolling is needed)
+      - naming - descriptive objects/variables (i.e., human readable)
+      - PEP8 guidelines- followed
+      - spacing - consistent and correct usage
+
+
+Coding Concept:
+
+Positive:
+•  Data structures done well, which includes using the following:
+      - dictionary
+      - list
+•  Coding concepts done well, which includes the following :
+      - built-in function(s):
+          str, len, print
+      - looping - over a dictionary
+
+Negative:
+•  Better data structures would have improved the solution, which includes the following:
+      - using 'tuple' - immutable elements
+•  Coding concepts that were poorly done, which includes the following:
+      - file handling - hardcoding file paths; relative paths should be used to promote notebook transferability
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - cell structure - clearer separation needed for data handling steps (e.g., reading, cleaning, merging)
+
+Additional Notes: 
+  - Great structure.
+  - Seperation is great, Task 1 could have used some subheadings to be a bit more readable.
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g., N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clear, concise and provides good context (i.e., C^3)
+      - sentences - complete written when appropriate (e.g., within markdown cells, docstrings)
+
+Neutral:
+•  Scholarship was done okay, apart from the following issue(s):
+      - citing - when possible cite peer-reviewed papers or academic books, not websites
+      - references - inconsistent formatting
+•  Writing and communication done okay, apart from the following issue(s):
+      - words - a few misspelled
+
+Negative:
+•  Scholarship done poorly, which includes the following:
+      - citing - citing only websites is poor scholarship
+      - citing - missing references for knowledge (e.g., datasets, equations, libraries)
+      - citing - missing reference numbers (e.g., [1, 2]) within your writing
+
+Additional Notes: 
+  - You did not cite the libraries you are using.
+  - "Howevey", "seperate", "Kischner" are a few misspells.
+
+
+Following Instructions:
+
+Positive:
+•  All instructions were meticulously followed.:
+      - The solution adhered to all submission requirements.
+      - Disallowed libraries were not used.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - excellent
+
+Additional Notes: 
+  - Very creative and well thought out solution.
+  - Great Code and structure.
+  - Nice interpretation of the results.
+  - Only some very minor mistakes.
+
+
+ Assignment Specific Feedback 
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - clearly defining all input variables/objects
+      - docstring - clearly defining the returned object(s)
+      - internal check - proper use of 'if not isinstance', 'raise' statements, etc.
+      - isolating ideas to user-defined functions
+      - type hinting - applied well for input variables (and for what is returned, if applicable)
+
+Neutral:
+•  Okay user-defined function(s), but the following could be improved:
+      - complex - a bit too many ideas placed into a single function
+
+Negative:
+•  Your user-defined functions had the following problems:
+      - complex - too many ideas place in a single function, which limits reusability, transferability and debugging
+      - global variables - use local variable in your function (e.g., improves transferability)
+      - structure - main code logic should be nested under the internal checks (e.g., within an else statement) for clear flow control
+      - types redundancy - type hinting is enough, no need to also specify the types again in the docstring
+
+
+Pandas:
+
+Positive:
+•  Overall Pandas feedback:
+      - built-in functions: Effective use of Pandas functions.
+      - Data Cleaning & Preparation: Very nicely done (e.g., dropping duplicates, handling missing values)!
+      - DataFrame Display: Nicely displayed Pandas DataFrames for better readability.
+•  Topic-Specific Applications (if applicable per assignment):
+      - Sorting: Good job on sorting the data for easier interpretation/understanding.
+      - Statitical Analysis: Good job on interpreting the statistical analysis.
+
+Negative:
+•  Output, Persistence, and Presentation:
+      - Final Data Not Saved: The final processed data was not saved to a file.
+
+
+NumPy:
+
+Positive:
+•  NumPy Best Practices:
+      - Correct usage of the standard community abbreviation 'import numpy as np'.
+      - Appropriate use of NumPy data types.
+
+
+Plotting / Visualization:
+
+Positive:
+•  Overall plot feedback:
+      - General: Choices behind the plot(s) were well done, resulting in clear and informative data presentation
+      - Color palette: well chosen
+      - matplotlib: Good usage of matplotlib for your homework assignment.
+      - Visualization: Very well done, resulting in clear and informative data presentation and understanding.
+•  The plot details were good regarding:
+      - axis labels
+      - color
+      - font size
+      - point style
+      - title
+      - including units
